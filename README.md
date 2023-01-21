@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Serge
-I'm a **beginner web developer** who enjoys coding different funny thing.
+I'm a **web developer** who enjoys coding different funny thing.
 I'd love to take part in *any* sort of Front-end project. 
 
 Feel free to **check out** my repos!
